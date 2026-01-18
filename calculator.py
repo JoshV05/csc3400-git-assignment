@@ -1,3 +1,5 @@
+import math
+
 def add(a, b):
     return a + b
 
@@ -11,6 +13,14 @@ def divide(a, b):
     if b == 0:
         return "Error: Division by zero"
     return a / b
+
+def power(a, b):
+    return a**b
+
+def square_root(a):
+    if a < 0:
+        return "Error: Negative square root"
+    return math.sqrt(a)
 
 
 print("Basic Calculator")
