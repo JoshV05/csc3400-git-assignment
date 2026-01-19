@@ -4,3 +4,20 @@ This repository will contain:
 	A calculator coded in Python
 	The different branches of development
 	Every commit made along the way
+
+Installation: 
+	Click "Code<>"
+	Install ZIP folder
+	Unzip folder in chosen directory
+
+Usage:
+	Performs basic mathematics
+
+Features:
+	Addition
+	Subtraction
+	Multiplication
+	Division
+	Exponents
+	Square Roots
+
