@@ -1,0 +1,30 @@
+1. Branched off when working on any sort of new feature or hotfix. Once ones that were completely finished were done, they were merged.
+
+2. Commit message conventions were describing what the commit changed
+
+3. Had to make one extra commit because I forgot to add the extra lines of the User Interface for the square root and power options
+
+4. Workflow:
+	Release
+	Feature/Advanced-Operations
+	Feature/User-Interface
+	Merge Feature/Advanced-Operations
+	Push Feature/User-Interface
+	Feature/Error-Handling
+	Hotfix/readme-update
+
+5. Common commands
+	I frequently used:
+	add
+	commit
+	checkout
+	merge
+	switch
+	touch
+	status
+	push
+	log
+
+	common flags were:
+	-m
+	-b
